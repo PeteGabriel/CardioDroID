@@ -1,0 +1,14 @@
+# CardioDroID 
+### Monitorization process of driving with alerts based upon elements of context
+#### in partnership with [CardioID Technologies](http://www.cardio-id.com/)
+
+
+## Summary
+
+
+## Main Idea (portuguese flyer)
+![Imgur](http://i.imgur.com/yGzwE1i.png)
+
+
+## Architecture
+![Imgur](http://i.imgur.com/5XEs4GA.png)
