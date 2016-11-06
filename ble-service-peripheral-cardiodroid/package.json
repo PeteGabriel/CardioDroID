@@ -1,0 +1,24 @@
+{
+  "name": "ble_periferico",
+  "version": "0.0.1",
+  "description": "Projecto Node para publicitar serviços/caracteristicas do sensor",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.bitbucket.org/projectoeseminario1516v/moduloedisonperiferico.git"
+  },
+  "keywords": [
+    "ble",
+    "edison",
+    "periferico"
+  ],
+  "author": "Pedro e Tiago",
+  "license": "ISC",
+  "dependencies": {
+    "bleno": "^0.4.0"
+  }
+}
