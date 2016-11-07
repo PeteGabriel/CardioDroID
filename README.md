@@ -12,3 +12,11 @@
 
 ## Architecture
 ![Imgur](http://i.imgur.com/5XEs4GA.png)
+
+
+###Some images
+
+
+![Imgur](http://i.imgur.com/4wOEdjJl.png)
+![Imgur](http://i.imgur.com/VBvjkz6l.png)
+![Imgur](http://i.imgur.com/OnHBabz.png)
