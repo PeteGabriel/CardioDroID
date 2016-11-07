@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="entries_processes_list_preference">
+    <item>@string/identification_process_name</item>
+    <item>@string/auth_process_name</item>
+  </string-array>
+
+  <string-array name="entries_type_of_map_layout">
+    <item>@string/map_layout_type_normal_pref</item>
+    <item>@string/map_layout_type_satellite_pref</item>
+    <item>@string/map_layout_type_terrain_pref</item>
+    <item>@string/map_layout_type_hybrid_pref</item>
+  </string-array>
+
+  <string-array name="value_entries_of_map_layout">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+  </string-array>
+
+  <string-array name="entry_values_processes_list_preference">
+    <item>TYPE_ID</item>
+    <item>TYPE_AUTH</item>
+  </string-array>
+
+  <string-array name="entries_list_preference">
+    <item>@string/wifi_conn</item>
+    <item>@string/mobile_conn</item>
+    <item>@string/both_conn</item>
+  </string-array>
+
+  <string-array name="entry_values_list_preference">
+    <item>TYPE_WIFI</item>
+    <item>TYPE_MOBILE</item>
+    <item>BOTH</item>
+  </string-array>
+
+  <string-array name="simple_condition_types">
+    <item>@string/simple_condition_type_exhaustion</item>
+    <item>@string/simple_condition_type_location</item>
+    <item>@string/simple_condition_type_time</item>
+    <item>@string/simple_condition_type_weather</item>
+  </string-array>
+
+  <string-array name="condition_types">
+    <item>@string/simple_condition_type</item>
+    <item>@string/composed_condition_type</item>
+  </string-array>
+
+  <string-array name="exhaustion_states_values">
+    <item>@string/exhaustion_state_LOW</item>
+    <item>@string/exhaustion_state_MEDIU</item>
+    <item>@string/exhaustion_state_HIGH</item>
+  </string-array>
+
+  <string-array name="actions_options">
+    <item>@string/alarm_sound_action_option</item>
+    <item>@string/vibrate_action_option</item>
+  </string-array>
+
+</resources>

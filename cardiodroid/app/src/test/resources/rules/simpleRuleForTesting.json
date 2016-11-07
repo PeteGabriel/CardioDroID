@@ -1,0 +1,14 @@
+{
+  "condition": {
+    "type": "SIMPLE",
+    "value": {
+      "type": "TIME",
+      "evaluator": "IN",
+      "fixed_value": {
+        "start_time": "20:00:00",
+        "end_time": "23:59:59"
+      }
+    }
+  },
+  "actions": ["PRINT_TO_CONSOLE"]
+}

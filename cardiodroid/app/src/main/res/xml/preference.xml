@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <PreferenceCategory
+      android:title="CardioDroid Configuration">
+
+    <ListPreference
+        android:key="identification_processes_list_preference"
+        android:title="@string/title_processes_list_preference"
+        android:dialogTitle="@string/dialog_title_processes_list_preference"
+        android:defaultValue="TYPE_AUTH"
+        android:entries="@array/entries_processes_list_preference"
+        android:entryValues="@array/entry_values_processes_list_preference" />
+
+    <EditTextPreference
+        android:key="device_address_preference"
+        android:title="Device Address"
+        android:clickable="false"
+        android:editable="false"
+        android:inputType="text"/>
+
+    <EditTextPreference
+        android:key="user_id_preference"
+        android:title="User ID"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:cursorVisible="false"
+        android:inputType="text"/>
+
+    <ListPreference
+        android:key="types_of_map_list_preference"
+        android:title="@string/type_of_map_layout_label"
+        android:dialogTitle="@string/dialog_title_choose_type_map_list_preference"
+        android:defaultValue="1"
+        android:entries="@array/entries_type_of_map_layout"
+        android:entryValues="@array/value_entries_of_map_layout" />
+
+  </PreferenceCategory>
+
+  <PreferenceCategory
+      android:title="@string/network_services_config">
+
+    <ListPreference
+        android:key="@string/type_connection_list_preference"
+        android:title="@string/type_of_connection"
+        android:summary="@string/summary_list_preference"
+        android:entries="@array/entries_list_preference"
+        android:entryValues="@array/entry_values_list_preference"
+        android:dialogTitle="@string/dialog_title_list_preference" />
+
+  </PreferenceCategory>
+
+  <PreferenceCategory
+      android:title="@string/rules_pref_category_config">
+
+    <EditTextPreference
+        android:key="vibrate_time_key"
+        android:title="Vibrate Action"
+        android:summary="Set the duration of the vibrate action"
+        android:dialogTitle="Set the duration"
+        android:persistent="true"
+        android:inputType="text"/>
+
+
+  </PreferenceCategory>
+
+
+
+
+
+
+</PreferenceScreen>

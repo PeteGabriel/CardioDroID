@@ -1,0 +1,21 @@
+{
+  "name": "CardioDroidWebService",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "description": "to be added later",
+  "main": "server.js",
+  "repository": "",
+  "author": "Pedro Gabriel",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "express-handlebars": "3.0.0",
+    "sqlite3": "3.1.4"
+  }
+}

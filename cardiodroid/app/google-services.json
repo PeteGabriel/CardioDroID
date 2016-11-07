@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34447631653",
+    "project_id": "cardiodroidapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34447631653:android:f07e419da577cbb4",
+        "android_client_info": {
+          "package_name": "com.dev.cardioid.ps.cardiodroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34447631653-phfmk2bdt5jvopv3pil306fek9v1njss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.cardioid.ps.cardiodroid",
+            "certificate_hash": "7207A36CC3F6E20BCD22CC74DEB645BEA9D5A7EC"
+          }
+        },
+        {
+          "client_id": "34447631653-she0j0640lv9fv70ro1qrrqocik0piod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCZ8HnV-5b4N9oqzH5gVzVmVcmTcxh6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

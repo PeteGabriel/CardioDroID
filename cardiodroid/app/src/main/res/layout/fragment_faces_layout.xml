@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/face_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#007f00"
+    tools:context="com.dev.cardioid.ps.cardiodroid.fragments.FacesFragment"
+    >
+
+  <ImageView
+      android:id="@+id/the_face_imgview"
+      android:visibility="gone"
+      android:layout_width="150dp"
+      android:layout_height="150dp"
+      android:scaleType="fitXY"
+      android:layout_centerInParent="true"
+      />
+
+  <TextView
+      android:id="@+id/tentar_novamente_texto"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="@dimen/action_all_directions_padding"
+      android:textAlignment="center"
+      android:textStyle="bold"
+      android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+      android:layout_marginTop="220dp"
+      tools:text="Sensor de Bluetooth está inativo. Tente de novo."
+      android:layout_marginBottom="16dp"
+      />
+
+  <Button
+      android:id="@+id/tentar_novamente_btn"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerHorizontal="true"
+      tools:text="Tentar Novamente"
+      android:layout_marginTop="280dp"
+      />
+</RelativeLayout>

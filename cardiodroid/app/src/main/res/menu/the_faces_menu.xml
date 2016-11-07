@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+  <item
+      android:id="@+id/see_dashboard_view"
+      android:icon="@drawable/ic_assessment_white_36dp"
+      android:actionViewClass="android.widget.ImageButton"
+      android:title="dashboard"
+      android:visible="true"
+      myapp:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/settings_icon"
+      android:title="@string/settings_action_menu"
+      myapp:showAsAction="never"/>
+</menu>

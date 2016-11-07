@@ -1,0 +1,261 @@
+<resources>
+    <string name="app_name">CardioDroid</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to the Settings menu-->
+    <string name="settings_action_menu">Settings</string>
+    <string name="register_action_menu">Register</string>
+    <string name="authentication_action_menu">Authenticate</string>
+    <string name="auth_action_menu">Authentication</string>
+    <string name="identification_action_menu">Identification</string>
+    <string name="discover_devices_action_menu" translatable="false">Search for BLE device</string>
+    <string name="allow_access_location">
+        Allow CardioDroID to access the device\'s location ?
+    </string>
+    <string name="access_location_permition_title">Device\'s Location</string>
+    <string name="allow_write_storage">Allow CardioDroID to read/write from/into the device\'s storage ?</string>
+    <string name="write_storage_permition_title">Access Storage</string>
+    <string name="network_services_config">Network Connections</string>
+    <string name="type_of_connection">Type of network</string>
+    <string name="summary_list_preference">
+        Specify the type of network you want to use when updating data from web.
+    </string>
+    <string name="wifi_conn">The WIFI data connection</string>
+    <string name="mobile_conn">The Mobile data connection</string>
+    <string name="both_conn">Any of them</string>
+    <string name="dialog_title_list_preference">Choose one type</string>
+    <!-- DO NOT TRANSLATE THIS ONE -->
+    <string name="type_connection_list_preference" translatable="false">
+        type_connection_list_preference
+    </string>
+
+
+    <!-- Strings related to Error Toasts -->
+    <string name="error_toast_BT_not_enable">Bluetooth is not enabled. Some features might not work properly</string>
+    <string name="error_toast_BLE_device_not_found">BLE device could not be found.</string>
+    <string name="error_toast_condition_not_specified">Please specify a condition</string>
+    <string name="error_toast_rule_name_not_specified">Please specify a name for this rule</string>
+    <string name="error_toast_actions_not_specified">Please specify one or more actions</string>
+    <string name="error_place_holder_not_set" translatable="false">Place holder value not set</string>
+
+    <!-- Strings related to the DialogFragments displayed in DefineRuleFragment -->
+    <string name="label_add_action_button">Add Action</string>
+    <string name="label_add_condition_button">Add Condition</string>
+    <string name="label_create_rule_button">Create Rule</string>
+
+
+    <!-- Strings related to the preferences fragment layout -->
+    <string name="title_processes_list_preference">Process of Identification</string>
+    <string name="dialog_title_processes_list_preference">Choose one process of identification</string>
+
+    <string name="identification_process_name">Identification</string>
+    <string name="auth_process_name">Authentication</string>
+    <string name="permissions_header">Permissions</string>
+    <string name="manage_rules_action_menu">Manage Rules</string>
+    <string name="rules_pref_category_config">Custom Rules</string>
+
+
+    <!-- Error messages related to the geocoder class approach-->
+    <string name="service_not_available">No geocoder available</string>
+    <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+    <string name="no_address_found">No address could be found.</string>
+    <string name="address_found">Address found !</string>
+    <string name="no_geocoder_available">A problem occurred when using the geocoder service.</string>
+
+
+    <!-- Strings related to the dashboard ACTIVITY -->
+  <string name="connection_to_ble_device_not_established">
+    There isn\'t a connection established with any BLE device. Maybe is not close enough.
+  </string>
+    <string name="already_register_message">You are already registered.</string>
+
+    <!-- Strings related to the dashboard fragment layout -->
+    <string name="connectivity_problem_explanation">
+        The application cannot obtain any data for the context elements.
+        Check your connectivity status.
+    </string>
+
+
+    <string name="Blue"></string>
+    <string name="high_label_chart_content">HIGH</string>
+    <string name="medium_label_chart_content" translatable="false">MEDIUM</string>
+    <string name="low_label_chart_content" translatable="false">LOW</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="add_text">Add</string>
+    <string name="add_actions_dialog_text">Add Action</string>
+    <string name="conditions_text">Conditions</string>
+    <string name="chart_title_label">Exhaustion States</string>
+    <string name="dashboard_context_label">Context Information</string>
+    <string name="actions_text">Actions</string>
+    <string name="location_permissions_not_granted">Permission to use the location sensor was not granted.</string>
+  <string name="network_down_warning">
+    Network connectivity lost. Check network configuration\'s panel.
+  </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="import_managed_rule">Import locally</string>
+    <string name="export_managed_rule">Export locally</string>
+    <string name="delete_managed_rule">delete</string>
+
+    <!-- Condition Creation Related Strings -->
+    <string name="add_conditions_dialog_text">Create Condition</string>
+    <string name="add_composed_condition_activity_label">Create a composed condition</string>
+    <string name="add_condition_type_dialog_text">Select a condition type</string>
+    <string name="create_text">Create</string>
+    <string name="select_simple_condition_type_text">Select a context type</string>
+    <string name="select_timeinterval_title">Select an interval</string>
+    <string name="composed_condition_condition1_text">Condition 1</string>
+    <string name="composed_condition_condition2_text">Condition 2</string>
+    <string name="composed_condition_relation_text">Relation</string>
+    <string name="select_composed_condition_relation_text">Select relation type</string>
+    <string name="named_rule_descriptor">Name</string>
+    <string name="details_of_condition_label">Details of the condition</string>
+
+
+    <!-- Strings related to the DefineRuleFragment Layout buttons -->
+    <string name="choose_actions_button">Choose Actions</string>
+    <string name="choose_condition_button">Choose Condition</string>
+    <string name="create_condition_button">Create Condition</string>
+    <string name="details_of_rule_button">Details</string>
+    <string name="create_rule_button">Create</string>
+    <string name="update_rule_label">Update</string>
+    <string name="update_rule_button">Update</string>
+    <string name="create_condition_error_set_condition_1">Set Condition #1</string>
+    <string name="create_condition_error_set_condition_2">Set Condition #2</string>
+    <string name="create_condition_error_set_rlation">Set Relation</string>
+
+
+    <!-- labels of each activity -->
+    <string name="label_define_new_rule_activity">Create New Rule</string>
+    <string name="label_manage_rules_activity">Manage Rules</string>
+    <string name="label_rule_details_activity">Details</string>
+    <string name="label_modify_rule_activity">Modify Rule</string>
+    <string name="label_settings_activity">Settings</string>
+
+    <!-- File Picker Dialog Fragment Labels -->
+    <string name="file_picker_go_back_button_label">Go Back</string>
+    <string name="file_picker_choose_dir_button_label">Ok</string>
+    <string name="import_of_file_not_possible">The selected file does not contain valid content.</string>
+    <string name="import_of_rules_success">Rules imported with success.</string>
+
+    <!-- fixed value descriptor labels -->
+    <string name="fixed_value_exhaustion_level_descriptor">Level</string>
+    <string name="fixed_value_weather_level_descriptor">Weather</string>
+    <string name="fixed_value_time_start_descriptor">Start</string>
+    <string name="fixed_value_time_end_descriptor">End</string>
+    <string name="fixed_value_location_latitude_descriptor">Latitude</string>
+    <string name="fixed_value_location_longitude_descriptor">Longitude</string>
+
+    <!-- define location fixed value dialog fragment -->
+    <string name="select_location_title">Select location</string>
+    <string name="location_latitude_descriptor">Latitude</string>
+    <string name="location_longitude_descriptor">Longitude</string>
+    <string name="location_radius_descriptor">Radius</string>
+    <string name="location_positive_button_text">Ok</string>
+
+
+    <string name="you_dont_have_permission_to_read">You do not have permission to read from the file system.</string>
+    <string name="you_dont_have_permission_to_write">You do not have permission to write into the file system.</string>
+    <string name="title_activity_location_maps">Location</string>
+    <string name="log_out_menu_message">Log out</string>
+
+    <!-- Strings related to the map activity-->
+    <string name="map_action_clear_map">Clear map</string>
+    <string name="map_layout_type_normal_pref">Normal</string>
+    <string name="map_layout_type_terrain_pref">Terrain</string>
+    <string name="map_layout_type_hybrid_pref">Hybrid</string>
+    <string name="map_layout_type_satellite_pref">Satellite</string>
+    <string name="type_of_map_layout_label">Type of map layout</string>
+    <string name="dialog_title_choose_type_map_list_preference">Choose one layout</string>
+    <string name="new_condition_generic_label">New condition</string>
+
+
+    <!-- Dialog Fragments options-->
+    <string name="select_one_option">Select one option</string>
+
+    <string name="simple_condition_type_exhaustion">Exhaustion</string>
+    <string name="simple_condition_type_time">Time</string>
+    <string name="simple_condition_type_location">Location</string>
+    <string name="simple_condition_type_weather">Weather</string>
+
+    <string name="simple_condition_type">Simple</string>
+    <string name="composed_condition_type">Composed</string>
+
+    <!-- Exhaustion States -->
+    <string name="exhaustion_states_label">Select state</string>
+    <string name="exhaustion_state_LOW">Low</string>
+    <string name="exhaustion_state_MEDIU">Medium</string>
+    <string name="exhaustion_state_HIGH">High</string>
+
+    <!-- Actions readable options -->
+    <string name="alarm_sound_action_option">Play a loud sound</string>
+    <string name="vibrate_action_option">Vibrate</string>
+    <string name="remote_log_action_option">Log info to the web service</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="login_invalid">Authorization was not given</string>
+    <string name="tentar_novamente_button">Try again</string>
+    <string name="tentar_novamente_textview">Connection failure. Try again later.</string>
+    <string name="user_is_identified">User identified</string>
+    <string name="user_is_not_identified">User was not identified,</string>
+
+
+    <string name="group_name_label">Name</string>
+    <string name="new_group_explanation_text">
+        Creating a new group will give other users
+        the possibility of joining and sharing
+        rules with other members.
+    </string>
+    <string name="joining_a_group_explanation_text">
+        Joining a new group will give you
+        the possibility of sharing
+        rules with other members.
+    </string>
+    <string name="new_group_creation_network_error">
+        Network connection not found. Cannot create group.
+    </string>
+    <string name="new_group_creation_name_error">
+        Group name must be provided.
+    </string>
+    <string name="join_group">Join</string>
+    <string name="new_cloud_group">Create group</string>
+    <string name="group_name_already_joined">
+        Your current group:
+    </string>
+    <string name="join_group_name_label">Join a group</string>
+    <string name="more_groups_to_join_label">Groups you can join:</string>
+
+
+    <string name="connectivity_problem_simple_msg">
+        The application cannot obtain any data.
+        Check your connectivity status.
+    </string>
+
+    <string name="group_created">Group created: </string>
+    <string name="group_not_created">Group not created. Try again later.</string>
+    <string name="connection_to_group_not_created">We could not connect the user to the group. Try again later.</string>
+    <string name="user_joined_group">joined the group</string>
+
+
+    <string name="cardiodroid_notification_content">Rule: X  Context: Y</string>
+    <string name="cardiodroid_notification_title">Rule broken !</string>
+
+    <string name="server_client_id" translatable="false">96189647940-m0d5gpmhev5jsumle0pvivg4b155ghlg.apps.googleusercontent.com</string>
+
+</resources>

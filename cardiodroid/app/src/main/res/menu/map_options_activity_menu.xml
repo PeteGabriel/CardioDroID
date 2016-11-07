@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+  <item android:id="@+id/map_icon_configure_condition"
+      android:title="Configure condition"
+      android:actionViewClass="android.widget.ImageButton"
+      android:icon="@drawable/ic_setting_dark"
+      app:showAsAction="ifRoom"/>
+
+  <item android:id="@+id/clear_map"
+      android:icon="@drawable/ic_clear_white_24dp"
+      android:title="@string/map_action_clear_map"
+      app:showAsAction="ifRoom"/>
+</menu>

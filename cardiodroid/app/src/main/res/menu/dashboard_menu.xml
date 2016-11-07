@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+
+
+  <item
+      android:id="@+id/see_the_faces_dashboard_icon"
+      android:actionViewClass="android.widget.ImageButton"
+      android:icon="@drawable/ic_face_white_24dp"
+      android:title="faces_layout"
+      myapp:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/connect_ble_device_dashboard_icon"
+      android:actionViewClass="android.widget.ImageButton"
+      android:icon="@drawable/ic_autorenew_white_24dp"
+      android:title="@string/discover_devices_action_menu"
+      myapp:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/register_dashboard_icon"
+      android:actionViewClass="android.widget.ImageButton"
+      android:icon="@drawable/ic_lock_white_36dp"
+      android:title="@string/register_action_menu"
+      myapp:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/auth_against_ble_device"
+      android:actionViewClass="android.widget.ImageButton"
+      android:title="@string/authentication_action_menu"
+      myapp:showAsAction="never"/>
+
+  <item
+      android:id="@+id/manage_rules_dashboard_icon"
+      android:title="@string/manage_rules_action_menu"
+      android:icon="@drawable/ic_list_white_36dp"
+      myapp:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/settings_dashboard_icon"
+      android:title="@string/settings_action_menu"
+      android:icon="@drawable/ic_setting_dark"
+      myapp:showAsAction="never"/>
+
+  <item
+      android:id="@+id/signout_dashboard_icon"
+      android:title="@string/log_out_menu_message"
+      myapp:showAsAction="never"/>
+
+</menu>

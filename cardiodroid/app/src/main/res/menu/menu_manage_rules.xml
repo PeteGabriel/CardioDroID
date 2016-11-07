@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.RuleManagerActivity">
+
+  <item
+      android:id="@+id/delete_managed_rule_icon"
+      android:title="@string/delete_managed_rule"
+      android:icon="@drawable/ic_delete_white_24dp"
+      app:showAsAction="ifRoom"
+      />
+
+  <item
+      android:id="@+id/export_cloud_managed_rule_icon"
+      android:title="@string/export_managed_rule"
+      android:icon="@drawable/ic_file_upload_white_24dp"
+      app:showAsAction="ifRoom"
+      />
+
+  <item
+      android:id="@+id/import_cloud_managed_rule_icon"
+      android:title="@string/import_managed_rule"
+      android:icon="@drawable/ic_file_download_white_24dp"
+      app:showAsAction="ifRoom"
+      />
+
+  <item
+      android:id="@+id/export_managed_rule_icon"
+      android:title="@string/export_managed_rule"
+      app:showAsAction="never"
+      />
+
+  <item
+      android:id="@+id/import_managed_rule_icon"
+      android:title="@string/import_managed_rule"
+      app:showAsAction="never"
+      />
+
+  <item
+      android:id="@+id/join_group_icon"
+      android:title="@string/join_group"
+      app:showAsAction="never"
+      />
+
+  <item
+      android:id="@+id/new_cloud_group_icon"
+      android:title="@string/new_cloud_group"
+      app:showAsAction="never"
+      />
+
+</menu>

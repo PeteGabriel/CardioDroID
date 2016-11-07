@@ -1,0 +1,30 @@
+{
+  "condition": {
+    "type": "COMPOSED",
+    "value": {
+      "condition1": {
+        "type": "SIMPLE",
+        "value": {
+           	"type": "Time",
+        	"evaluator": "Between",
+          	"fixed_value": {
+              "start_interval": "20:00:00",
+              "end_interval": "23:59:59"
+            }
+        }
+      },
+      "condition2": {
+        "type": "SIMPLE",
+        "value": [
+          {
+            "type": "Location",
+            "evaluator": "On",
+            "fixed_value": "HighWay"
+          }
+        ]
+      },
+      "relation": "AND"
+    }
+  },
+  "actions": ["PRINT_TO_CONSOLE"]
+}

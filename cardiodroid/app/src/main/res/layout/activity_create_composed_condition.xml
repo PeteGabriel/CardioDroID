@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+  <include layout="@layout/toolbar_generic_layout"/>
+
+  <Button
+      android:id="@+id/select_relation_button"
+      android:text="@string/composed_condition_relation_text"
+      android:padding="@dimen/action_all_directions_padding"
+      android:layout_width="130dp"
+      android:layout_gravity="center"
+      android:layout_marginTop="50dp"
+      android:layout_height="wrap_content"
+      android:background="@color/colorAccent"
+      android:textColor="@color/colorLinen"
+      />
+  <Button
+      android:id="@+id/create_condition1_button"
+      android:layout_width="130dp"
+      android:padding="@dimen/action_all_directions_padding"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="30dp"
+      android:layout_gravity="center"
+      android:textColor="@color/colorLinen"
+      android:background="@color/colorAccent"
+      android:text="@string/composed_condition_condition1_text"
+      />
+  <Button
+      android:id="@+id/create_condition2_button"
+      android:text="@string/composed_condition_condition2_text"
+      android:layout_width="130dp"
+      android:padding="@dimen/action_all_directions_padding"
+      android:layout_gravity="center"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="30dp"
+      android:background="@color/colorAccent"
+      android:textColor="@color/colorLinen"
+      />
+  <Button
+      android:id="@+id/create_composed_condition_button"
+      android:text="@string/create_condition_button"
+      android:padding="@dimen/action_all_directions_padding"
+      android:layout_gravity="center"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="50dp"
+      android:layout_marginBottom="30dp"
+      android:background="@color/colorPrimary"
+      android:textColor="@color/colorLinen"
+      />
+
+</LinearLayout>

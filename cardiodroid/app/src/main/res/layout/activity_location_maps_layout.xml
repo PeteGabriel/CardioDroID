@@ -1,0 +1,30 @@
+<LinearLayout
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+  <include layout="@layout/toolbar_generic_layout"/>
+
+  <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:id="@+id/map"
+      android:name="com.google.android.gms.maps.SupportMapFragment"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_weight=".5"
+      tools:context="com.dev.cardioid.ps.cardiodroid.activities.LocationMapsActivity"
+      />
+
+  <Button
+      android:id="@+id/create_location_condition_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:background="@color/success"
+      android:textColor="@color/colorLinen"
+      android:layout_margin="@dimen/action_all_directions_padding"
+      android:text="CREATE"
+      />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+  <TextView
+      android:id="@+id/tentar_novamente_texto"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="@dimen/action_all_directions_padding"
+      android:layout_margin="@dimen/action_all_directions_padding"
+      android:text="Sensor de Bluetooth está inativo. Tente de novo."
+      android:visibility="gone"
+      />
+  <Button
+      android:id="@+id/tentar_novamente_btn"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="@dimen/action_all_directions_padding"
+      android:layout_margin="@dimen/action_all_directions_padding"
+      android:text="Tentar Novamente"
+      android:visibility="gone"
+      />
+</merge>

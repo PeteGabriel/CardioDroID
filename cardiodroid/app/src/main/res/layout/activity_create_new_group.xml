@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLinen">
+
+    <include layout="@layout/toolbar_generic_layout"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/group_name_label"
+        android:id="@+id/name_text_view"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="20dp"
+        android:paddingEnd="@dimen/action_all_directions_padding"
+        android:paddingStart="@dimen/action_all_directions_padding"
+        android:paddingTop="@dimen/action_all_directions_padding"
+        android:textStyle="bold" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/new_group_name"
+        android:layout_margin="@dimen/action_all_directions_padding"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginEnd="@dimen/action_all_directions_padding"
+        android:layout_marginStart="@dimen/action_all_directions_padding"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/new_group_explanation_text"
+        android:id="@+id/group_explanation_text_view"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/create_text"
+        android:textColor="@color/colorLinen"
+        android:background="@color/success"
+        android:id="@+id/create_new_group_button"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

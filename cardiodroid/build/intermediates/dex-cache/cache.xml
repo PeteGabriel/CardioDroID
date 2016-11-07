@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.8_cefb525d9b972a1a6a72ea65a559792b50eec3f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_95c3072597f8b66a0fcf40926791855c3fc4b86c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_721cfaf47df93d70cca7f5ef22eb0419b51341f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_84050d5fd6c0f06f4caba6e9cf23a784e3ae1530\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_5f8d196f6eadd55ff67b9a202b7c9761a4ae470a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_7339b1ba14f99ba6a74b79e1231e601620abc419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_b225b856135d4ae9cdaccc9e7c686b10b48405d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_bc411ce0c389d76512cbc271befd194d3ced2ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_cb1ea808c05b181273fe29d3eb7f1993ef1e27e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_e652c3dcc80a3eb420df2a2377a975f26f892fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_5959b6a45c622ced27ed8eea278a82f70acf50c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_45fd050c740d0affa56fa63ae14e1b4482a37009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67737211bae7a4d1bf6f3d92c3bea9919bf93127">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.danlew-android.joda-2.9.4.1_2c8b9fe0e55230b08c8a519594d185c8586b94b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_79a60038ce66a28814e8f74b1dc0c613ce565049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_bbf0548ab4e2f0631870ae7de40e52ec1138ae6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_e959702c2f9ac3e69151b7463d3a616ef456975e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_6c9bd111cc6c681cc0d683a3b78d4cb4c0106fa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_c3a3ff3f6e2fb0e12880c2d97fe9dfad498aea05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_9a4549e186483dcf4b4e883a136724ddd3b0b376\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_a04dbabbd1446b592839661bdf7c38aabd5e88ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c24a1ea59aaa41565c291c1f6d9471427b622ecc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6cf5521f5d9d0292ddb005e141fadf42d5f30818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_3b710ec58878b0852db4fc9d553fa3eaad458bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_472d2bbf26dc9c1e84d2754f908e9589969adffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_0ef64e608d8e9cb51a8837f1b41f075ceae401bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_bf4e2c0812c7fc1a199cfb762f00ded38a29ad02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_fd42187898ee80b33724aec3432abf8a6b99af87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_e358d59bf805514b50f918ff6c8eff1dcf2cc6e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_28f214f384775196e8d9e8f9357e1d898da7ee2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_b033a40be1449277773c8a56ed9971f6059ffe69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c906f79bc885337a591b9569b8610730c21254a6">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d0e46107743d739241cc009dcd805b643bb9c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_16d0afad446e45656646d79f62753a9aa044f242\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c385087a66461e0512a8bef2559d296f9bb2ea3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_1196176035c917e5955807352db1530fa2dd7bba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_e007d2c0b28c38bf68b731e13b03ed085b207bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_20d8d346ba7da2ec2e1e3dae14aa316c06350f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_b5ac9b0f1d552e3b195df49ca7fa5c9971349118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_d30bba3529b05f4ac4257868ac66d3e825bb61c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_a85d153adc5fbbe9d365fb61f699dcf6c7731002\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_773e5b4ec7ebc25a046dd360702b9d8cac895977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_4cdee598824f190097bf7344b7456a38665aa19c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_99efda7bdbdbc9cc02380f6d2e4e963e89989c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_46f7aeef6130eb99eb0a239d74cbafd262237dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_13d8d57f4497520a3a151870465c1e504d564507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_657f160642ecbfe925d0fbe6fd95c64da20845c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_ef5b7bcac5a6f7d171b360f1ef53563eb09732d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\42e5f69edd03ac35f7fb93fad004ee6e45657f36\joda-time-2.9.4-no-tzdb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42e5f69edd03ac35f7fb93fad004ee6e45657f36">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.4-no-tzdb_4ead7f67b58561d54c388933e706edcd5dc2016d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_39d59b39df259e4bc672cabb4129a4bc4fd8d10d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_fa4f161ab7e9e3a0a43ef65ca2cf21e3ff28c765\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_c2ef7bbf50cfa5cd3905cc2619f075ae251d82b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_83a90f66811f0a65e28eec3bf309e2946f52e987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_7ecf3dd702faed28bf90095039ef738b6c8aa586\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_3e3cb3fc50ad356d2a48f58b9345d701380372e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_bb621713a3d0151f679b609161da6f152636df48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_27f93579e177eeb7a449fc3d0ecdd1d9c0f18d00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_419cda6b6c53120f04aafd46d8f35016a0559efe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_2b6256d0abf3efeee136d8ebf02e4630f80c8f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_4a553c49b9693e719f15ff3047500b602081b033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_cb73fa1e43b6406f876973495a868a4503330bbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_1a44e2c253887bc792c16581c2aa187c01fa0959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_00677ec5056a8ed47778421362f947cd46643958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_7d3500cb99eb777d80e7f85f50701a08baf41e75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_13797541bb46a670d990afddb74867446d69b0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_8d84d6518fd92cf1f33202cdc1f2609e73efe4e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_3f5c27063b50b796b3908840b963ed5e79891787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_26dd5718c282c9b26d62137ebcf9d57f81f62edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_2a9a04403733666cbe08a228224ccdd224f63696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_9906dfa5acb97b5857ba9888a136fff23f991f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3186a2e03db6176c52e8adc6996bdba107e40a3d">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_aaea90df58ed86bdfd126e7c07a2d7840cddd9e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pgabriel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="C:\Users\pgabriel\Documents\projects\cardiodroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta4_07220372ac9c4931e16b14e45e236c98730f800e\classes.dex" />
+    </item>
+
+</items>

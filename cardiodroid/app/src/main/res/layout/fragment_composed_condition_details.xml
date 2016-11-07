@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/action_all_directions_padding">
+
+    <TextView
+        android:id="@+id/type_detail_textview"
+        android:text="TYPE"
+        android:textAllCaps="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/action_all_directions_padding"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textShortMessage"
+        tools:text="Composed"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/rule_type_detail_value"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_alignBaseline="@+id/type_detail_textview"
+        android:layout_alignBottom="@+id/type_detail_textview"
+        android:layout_toEndOf="@+id/type_detail_textview" />
+
+    <!--details of the first condition -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textShortMessage"
+        tools:text="Simple"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/cond_1_condition_type_detail_value"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_alignBaseline="@+id/type_subcondition__detail_textview"
+        android:layout_alignBottom="@+id/type_subcondition__detail_textview"
+        android:layout_toEndOf="@+id/type_subcondition__detail_textview" />
+
+    <TextView
+        android:id="@+id/type_subcondition__detail_textview"
+        android:text="TYPE"
+        android:textAllCaps="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_marginTop="7dp"
+        android:layout_below="@+id/condition_1_detail_textview"
+        android:layout_alignStart="@+id/condition_1_detail_textview"
+        android:layout_marginStart="20dp" />
+
+    <TextView
+        tools:text="Weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cond_1_context_type_detail_value"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_below="@+id/cond_1_condition_type_detail_value"
+        android:layout_toEndOf="@+id/context_subcondition_detail_textview" />
+
+    <!-- Details of second condition -->
+
+    <TextView
+        android:id="@+id/condition_2_detail_textview"
+        android:text="CONDITION #2"
+        android:textAllCaps="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_below="@+id/context_subcondition_detail_textview"
+        android:layout_alignStart="@+id/condition_1_detail_textview"
+        android:layout_marginTop="12dp"/>
+
+    <TextView
+        android:text="CONTEXT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/context_subcondition_2_detail_textview"
+        android:layout_below="@+id/type_subcondition_2_detail_textview"
+        android:layout_alignStart="@+id/type_subcondition_2_detail_textview"/>
+
+    <TextView
+        tools:text="Weather"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cond_2_condition_context_detail_value"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_below="@+id/cond_2_condition_type_detail_value"
+        android:layout_toEndOf="@+id/context_subcondition_2_detail_textview"/>
+
+    <TextView
+        android:id="@+id/condition_1_detail_textview"
+        android:text="CONDITION #1"
+        android:textAllCaps="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_below="@+id/type_detail_textview"
+        android:layout_alignStart="@+id/type_detail_textview"/>
+
+    <TextView
+        android:text="CONTEXT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/context_subcondition_detail_textview"
+        android:layout_below="@+id/cond_1_condition_type_detail_value"
+        android:layout_alignStart="@+id/type_subcondition__detail_textview"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textShortMessage"
+        tools:text="Simple"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/cond_2_condition_type_detail_value"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_marginStart="100dp"
+        android:layout_above="@+id/context_subcondition_2_detail_textview"/>
+
+    <TextView
+        android:id="@+id/type_subcondition_2_detail_textview"
+        android:text="TYPE"
+        android:textAllCaps="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_below="@+id/condition_2_detail_textview"
+        android:layout_toEndOf="@+id/type_detail_textview"/>
+
+
+    <TextView
+        android:id="@+id/action_detail_textview"
+        android:text="ACTIONS"
+        android:textAllCaps="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/context_subcondition_2_detail_textview" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textShortMessage"
+        tools:text="Alarm Sound"
+        android:textStyle="bold|italic"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/action_detail_value"
+        android:layout_marginLeft="@dimen/action_all_directions_padding"
+        android:layout_marginRight="@dimen/action_all_directions_padding"
+        android:layout_alignBaseline="@+id/action_detail_textview"
+        android:layout_alignBottom="@+id/action_detail_textview"
+        android:layout_toEndOf="@+id/action_detail_textview" />
+
+</RelativeLayout>

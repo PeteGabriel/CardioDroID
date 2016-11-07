@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+  <TextView
+      android:id="@+id/file_picker_current_dir_textview"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:paddingBottom="15dp"
+      android:textAllCaps="true"
+      android:textAppearance="?android:attr/textAppearanceSmall"
+      android:textSize="16sp"
+      android:textStyle="bold"
+      />
+
+  <ListView
+      android:id="@+id/files_listView"
+      android:layout_width="wrap_content"
+      android:layout_height="400dp"
+      android:background="@color/colorLinen"
+      />
+
+  <LinearLayout
+      android:id="@+id/page_buttons"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:gravity="center"
+      >
+    <Button
+        android:id="@+id/file_picker_back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:padding="@dimen/action_all_directions_padding"
+        android:background="@color/colorAccent"
+        android:text="@string/file_picker_go_back_button_label"
+        android:textColor="@android:color/white"
+        />
+    <Button
+        android:id="@+id/file_picker_directory_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:padding="@dimen/action_all_directions_padding"
+        android:background="@color/colorAccent"
+        android:text="@string/file_picker_choose_dir_button_label"
+        android:textColor="@android:color/white"
+        />
+
+  </LinearLayout>
+</LinearLayout>

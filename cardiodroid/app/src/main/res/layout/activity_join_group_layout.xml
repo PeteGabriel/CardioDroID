@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLinen"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.dev.cardioid.ps.cardiodroid.activities.api_ops.JoinGroupActivity">
+
+    <include layout="@layout/toolbar_generic_layout"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/group_name_already_joined"
+        android:id="@+id/join_name_label"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:paddingEnd="@dimen/action_all_directions_padding"
+        android:paddingStart="@dimen/action_all_directions_padding"
+        android:paddingTop="@dimen/action_all_directions_padding"
+        android:textStyle="bold" />
+
+    <TextView
+        android:padding="@dimen/action_all_directions_padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        tools:text="Group Name Goes Here"
+        android:textColor="@color/colorPrimary"
+        android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/join_group_name"
+        android:layout_margin="@dimen/action_all_directions_padding"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_marginEnd="@dimen/action_all_directions_padding"
+        android:layout_marginStart="@dimen/action_all_directions_padding"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/joining_a_group_explanation_text"
+        android:id="@+id/group_explanation_text_view"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/more_groups_to_join_label"
+            android:id="@+id/more_groups_label"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginTop="12dp"
+            android:padding="@dimen/action_all_directions_padding"
+            android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/selected_group_label"
+        android:textColor="@color/colorPrimary"
+        android:padding="@dimen/action_all_directions_padding"
+        android:textStyle="bold" />
+
+
+    <ListView
+        android:padding="@dimen/action_all_directions_padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".3"
+        android:id="@+id/join_group_list"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/join_group"
+        android:textColor="@color/colorLinen"
+        android:layout_marginBottom="@dimen/action_all_directions_padding"
+        android:background="@color/success"
+        android:id="@+id/join_new_group_button"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
