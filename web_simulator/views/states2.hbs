@@ -1,0 +1,46 @@
+<div class="navbar navbar-default navbar-static-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand"><span>CardioDroID Web Simulator</span></a>
+        </div>
+    </div>
+</div>
+<div class="section">
+    <main>
+        <input class="tabInput" id="tab1" type="radio" name="tabs" checked>
+        <label for="tab1">Identify/Authenticate</label>
+
+        <input class="tabInput" id="tab2" type="radio" name="tabs">
+        <label for="tab2">Exhaustion State</label>
+
+        <section id="content1" style="height: 50%;">
+            <div id="pattern-process" style="width: 100%; height: 100%;">
+                <!-- Place Holder -->
+            </div>
+        </section>
+
+        <section id="content2">
+            <div id="auth-process" style="width: 100%; height: 100%;">
+                <div style="padding-top: 5px; margin-left: auto;margin-right: auto; width:20em;">
+                    <p id="auth-state-message"></p>
+                </div>
+                <!-- Elementos relativos ao processo de simulação de estados -->
+                <div style="padding-bottom: 10px">
+                    Select a State:
+                </div>
+                <div style="padding-bottom: 5px">
+                    <button class="btn btn-success" style="width: 120px;" id="TiredLevel1">Healthy</button>
+                </div>
+                <div style="padding-bottom: 5px">
+                    <button class="btn btn-warning" style="width: 120px;" id="TiredLevel2">Tired</button>
+                </div>
+                <div style="padding-bottom: 5px">
+                    <button class="btn btn-danger" style="width: 120px;" id="TiredLevel3">Exhausted</button>
+                </div>
+                <div style="padding-bottom: 10px">>
+                  <button class="btn btn-info" style="width: 120px;" id="SimulatorButton">Simulate</button>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>

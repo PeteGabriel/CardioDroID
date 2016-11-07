@@ -1,0 +1,19 @@
+/*Visual de cada section */
+#identification_section{
+  min-height: 400px;
+  background-color: #00b489;
+}
+
+#state_simulation_section{
+  background-color: #3f729b;
+  min-height: 400px;
+}
+
+/*titulos de cada section*/
+#state_simulation_section > h3, #identification_section > h3 {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
